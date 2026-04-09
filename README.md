@@ -21,7 +21,7 @@ The dataset used in this project is the IBM Telco Customer Churn dataset, which 
 - VS Code
 
 ## Project Structure
-```text
+
 customer-churn-prediction/
 │
 ├── data/
